@@ -15,3 +15,9 @@ import { LocalizationProvider, DateTimePicker} from "@mui/x-date-pickers";
 import { AdapterDateFns } from "@mui/x-date-pickers/AdapterDateFns";
 import { DatePickerEventFormData, ITodo } from "./EventCalendar";
 
+
+interface IProps {
+    open: boolean
+    handleClose: Dispatch<SetStateAction<void>>
+    datePickerEventFormData: DatePickerEventFormData
+}
