@@ -52,9 +52,13 @@ Contributions make the open-source community an amazing place to learn, inspire,
 
 <br>Create your Feature Branch (git checkout -b feature/AmazingFeature)
 </br>
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
+<br>Commit your Changes (git commit -m 'Add some AmazingFeature')
+</br>
+<br>Push to the Branch (git push origin feature/AmazingFeature)
+</br>
+<br>
 Open a Pull Request
+</br>
 
 ### 📜 License
 Distributed under the MIT License. See LICENSE for more information.
