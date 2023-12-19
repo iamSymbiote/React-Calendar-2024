@@ -49,7 +49,9 @@ Color-coding events for quick and easy visual reference.
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make to "React Calendar App 2024" are greatly appreciated.
 
 ### Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+<br>Create your Feature Branch (git checkout -b feature/AmazingFeature)
+</br>
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
