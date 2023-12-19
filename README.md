@@ -4,7 +4,7 @@
   <br />
   <a href="https://github.com/iamSymbiote/ReactExamples-Calendar"><strong>Explore the docs »</strong></a>
   .
-  <a href="[https://github.com/iamSymbiote/ReactExamples-Calendar](https://dashing-pothos-0892a1.netlify.app/)">View Demo</a>
+  <a href="https://dashing-pothos-0892a1.netlify.app/">View Demo</a>
   ·
   <a href="https://github.com/iamSymbiote/ReactExamples-Calendar/issues">Report Bug</a>
   ·
