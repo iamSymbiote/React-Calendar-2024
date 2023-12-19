@@ -10,7 +10,7 @@
   ·
   <a href="https://github.com/iamSymbiote/ReactExamples-Calendar/issues">Request Feature</a>
 </p>
- <h1 align="center">🌟 About the Project**</h1>
+ <h1 align="center">🌟 About the Project</h1>
 <p align="center">
 "React Calendar App 2024" is a dynamic and interactive calendar application built using React, specifically designed for the year 2024. It features an intuitive event creation system, todo integration, and a sleek user interface, making it an ideal tool for personal or professional scheduling and planning for the upcoming year.</p>
 
