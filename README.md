@@ -20,7 +20,7 @@ Material-UI
 React Big Calendar
 date-fns
 
-##🚀 Getting Started
+### 🚀 Getting Started
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
