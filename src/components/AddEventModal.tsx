@@ -14,7 +14,6 @@ import {
 
 import { EventFormData, ITodo } from "./EventCalendar";
 
-
 interface IProps {
     open: boolean
     handleClose: Dispatch<SetStateAction<void>>
@@ -23,6 +22,7 @@ interface IProps {
     onAddEvent: (event: MouseEvent<HTMLButtonElement>) => void
     todos: ITodo[]
 }
+
 
 const AddEventModal = ({ open, handleClose, eventFormData, setEventFormData, onAddEvent, todos }: IProps) => {
     const {description} = eventFormData
@@ -65,7 +65,7 @@ const AddEventModal = ({ open, handleClose, eventFormData, setEventFormData, onA
                         disablePortal
                         id="combo-box-demo"
                         options={todos}
-                        sx={{marginTop: 4}}
+                        sx={{marginTop: 4, height: 100}}
                         getOptionLabel={(option) => option.title}
                         renderInput={(params) => <TextField {...params} label="Todo"/>}
                     />
